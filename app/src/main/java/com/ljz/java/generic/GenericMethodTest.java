@@ -1,4 +1,4 @@
-package com.ljz.java;
+package com.ljz.java.generic;
 
 public class GenericMethodTest {
 

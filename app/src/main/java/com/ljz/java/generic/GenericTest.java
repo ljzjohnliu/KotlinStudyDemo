@@ -1,4 +1,4 @@
-package com.ljz.java;
+package com.ljz.java.generic;
 
 import java.util.ArrayList;
 import java.util.List;

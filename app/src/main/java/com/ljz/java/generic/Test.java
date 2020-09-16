@@ -1,6 +1,6 @@
-package com.ljz.java;
+package com.ljz.java.generic;
 
-import static com.ljz.java.Color.BLUE;
+import static com.ljz.java.generic.Color.BLUE;
 
 enum Color {
     RED, GREEN, BLUE;

@@ -1,8 +1,12 @@
-package com.ljz.java;
+package com.ljz.java.generic;
 
+import com.ljz.java.annotation.MyAnnotation1;
+
+@MyAnnotation1
 public class Box<T> {
     private T t;
 
+    @Deprecated
     public void add(T t) {
         this.t = t;
     }
